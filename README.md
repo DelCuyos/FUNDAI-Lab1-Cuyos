@@ -7,4 +7,4 @@
 - GitHub Username: DelCuyos
 
 ## Laboratory Activities
-- Lab 1: Environment Onboarding
+- Lab 5: Design a Rule-Based Expert System
